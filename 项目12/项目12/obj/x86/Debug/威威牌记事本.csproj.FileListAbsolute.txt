@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\obj\x86\Debug\项目12.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\obj\x86\Debug\项目12.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\obj\x86\Debug\威威牌记事本.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\bin\Debug\项目12.exe
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\bin\Debug\项目12.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\obj\x86\Debug\项目12.exe
+c:\users\administrator\documents\visual studio 2010\Projects\项目12\项目12\obj\x86\Debug\项目12.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\项目12\项目12\obj\x86\Debug\威威牌记事本.csprojResolveAssemblyReference.cache
